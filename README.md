@@ -1,1 +1,1 @@
-My first project where I started writing React, here I tried to understand the props logic, companent logic and I built a library and then I did operations with that library.
+My first project in React, where I explored the basics of props and component logic. In this project, I built a library and performed operations with it to deepen my understanding of React’s structure and functionality.
